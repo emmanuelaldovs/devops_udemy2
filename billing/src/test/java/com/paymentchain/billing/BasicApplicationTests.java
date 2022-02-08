@@ -18,7 +18,7 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-				String meessage= "default message cambio test devops 002"
+				String meessage= "default message cambio test devops 002";
 				Assert.assertNotNull(meessage);
 	}
 
